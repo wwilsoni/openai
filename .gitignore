@@ -1,3 +1,2 @@
-### dotenv template
-.env
-node_modules/
+/.env
+
